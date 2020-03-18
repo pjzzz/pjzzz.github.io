@@ -3,5 +3,34 @@
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
+<clipPath id="c0_69"><path d="M110,1100V110H825v990Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_69{
+fill: #2C2C2C;
+}
+.g1_69{
+fill: #808080;
+}
+.g2_69{
+fill: #2C2C2C;
+stroke: #000000;
+stroke-width: 1.099;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_69{
+fill: #808080;
+stroke: #000000;
+stroke-width: 1.099;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
 </defs>
+<g clip-path="url(#c0_69)">
+<path d="M110,810.7H825v1.1H110v-1.1Z" class="g0_69"/>
+<path d="M110,814H825v1.1H110V814Z" class="g1_69"/>
+</g>
+<path fill-rule="evenodd" d="M110,810.7v4.4l1.1,-1.1v-3.3Z" class="g2_69"/>
+<path fill-rule="evenodd" d="M823.9,811.8v3.3H825v-4.4Z" class="g3_69"/>
 </svg>

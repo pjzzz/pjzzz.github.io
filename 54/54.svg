@@ -3,5 +3,31 @@
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
+<style type="text/css"><![CDATA[
+.g0_54{
+fill: #2C2C2C;
+}
+.g1_54{
+fill: #808080;
+}
+.g2_54{
+fill: #2C2C2C;
+stroke: #000000;
+stroke-width: 1.099;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_54{
+fill: #808080;
+stroke: #000000;
+stroke-width: 1.099;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
 </defs>
+<path d="M110,302.5H825v1.1H110v-1.1Z" class="g0_54"/>
+<path d="M110,305.8H825v1.1H110v-1.1Z" class="g1_54"/>
+<path fill-rule="evenodd" d="M110,302.5v4.4l1.1,-1.1v-3.3Z" class="g2_54"/>
+<path fill-rule="evenodd" d="M823.9,303.6v3.3H825v-4.4Z" class="g3_54"/>
 </svg>

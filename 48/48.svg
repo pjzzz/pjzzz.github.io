@@ -3,5 +3,13 @@
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
+<style type="text/css"><![CDATA[
+.g0_48{
+fill: #FFFFFF;
+}
+]]></style>
 </defs>
+<path fill-rule="evenodd" d="M138,159.8H797.5V110H138v49.8Z" class="g0_48"/>
+<path fill-rule="evenodd" d="M166.5,184.7h631V159.8h-631v24.9Z" class="g0_48"/>
+<path fill-rule="evenodd" d="M137.5,209.6h660V184.7h-660v24.9Z" class="g0_48"/>
 </svg>

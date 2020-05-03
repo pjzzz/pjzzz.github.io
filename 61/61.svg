@@ -3,5 +3,35 @@
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg viewBox="0 0 935 1210" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
+<style type="text/css"><![CDATA[
+.g0_61{
+fill: #FFFFFF;
+}
+]]></style>
 </defs>
+<path fill-rule="evenodd" d="M137.5,134.9h660V110h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,209.6h660V134.9h-660v74.7Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,234.5h660V209.6h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,259.4h660V234.5h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,284.3h660V259.4h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,309.2h660V284.3h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,334.1h660V309.2h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,433.7h660V334.1h-660v99.6Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,458.6h660V433.7h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,558.2h660V458.6h-660v99.6Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,583.2h660V558.3h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,633h660V583.2h-660V633Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,657.9h660V633h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,682.8h660V657.9h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,782.4h660V682.8h-660v99.6Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,807.3h660V782.4h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,832.2h660V807.3h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,857.1h660V832.2h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,882h660V857.1h-660V882Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,906.9h660V882h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,931.8h660V906.9h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,956.7h660V931.8h-660v24.9Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,1031.4h660V956.7h-660v74.7Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,1106.1h660v-74.7h-660v74.7Z" class="g0_61"/>
+<path fill-rule="evenodd" d="M137.5,1131h660v-24.9h-660V1131Z" class="g0_61"/>
 </svg>

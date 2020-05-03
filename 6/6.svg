@@ -5,13 +5,25 @@
 <defs>
 <style type="text/css"><![CDATA[
 .g0_6{
-fill: none;
-stroke: #0000EE;
-stroke-width: 1.099;
-stroke-linecap: butt;
-stroke-linejoin: miter;
+fill: #FFFFFF;
 }
 ]]></style>
 </defs>
-<path d="M110,286.5h83.6Zm0,25.3h83.6Zm0,25.3h83.6Zm0,25.3h83.6Zm0,25.3h83.6Zm0,25.3h83.6Zm0,25.3h83.6Zm0,25.3h83.6Zm0,25.3h83.6Zm0,25.3h94.6Zm0,25.3h93.5Zm0,75.9h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Zm0,25.3h94.6Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,133.8h660V110h-660v23.8Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,157.7h660V133.8h-660v23.9Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,205.3h660V157.7h-660v47.6Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,229.2h660V205.3h-660v23.9Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,396h660V229.2h-660V396Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,443.7h660V396h-660v47.7Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,467.5h660V443.7h-660v23.8Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,539.8h660V467.5h-660v72.3Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,635.1h660V539.8h-660v95.3Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,706.6h660V635.1h-660v71.5Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,778.1h660V706.6h-660v71.5Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,801.9h660V778.1h-660v23.8Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,849.6h660V801.9h-660v47.7Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,897.3h660V849.6h-660v47.7Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,921.1h660V897.3h-660v23.8Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,1064.1h660v-143h-660v143Z" class="g0_6"/>
+<path fill-rule="evenodd" d="M137.5,1135.6h660v-71.5h-660v71.5Z" class="g0_6"/>
 </svg>
